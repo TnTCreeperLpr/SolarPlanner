@@ -1,0 +1,5 @@
+streamlit
+requests
+pandas
+plotly
+zoneinfo; python_version >= "3.9"
